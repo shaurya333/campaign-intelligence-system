@@ -46,5 +46,4 @@ Fatigue label: a **brush-off** is a call shorter than 60 seconds that did not en
 | `score_demo.py` | Scores six worked examples |
 | `CIS_Colab.ipynb` | Whole project as one notebook (built by `make_notebook.py`) |
 
-## Tech stack
-Python 3 · pandas · NumPy · scikit-learn · matplotlib · Altair · Streamlit · GitHub · Streamlit Community Cloud · Google Colab
+
